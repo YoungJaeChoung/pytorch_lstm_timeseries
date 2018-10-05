@@ -1,4 +1,4 @@
-# pytorch lstm timeseries
+# pytorch lstm time series prediction
 simple sample code to predict time series data (example: sine data)
 
 This figure shows input data (one obs.) and predicted result for last 4 time steps.
